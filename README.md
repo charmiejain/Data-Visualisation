@@ -11,7 +11,7 @@ This repository is a collection of code, examples, and resources for creating co
 + Scatter Plot
 + Pie Chart
 
-# 📦 Python Libraries
+# Python Libraries
 -Install using pip
 + Matplotlib 
 + Seaborn
