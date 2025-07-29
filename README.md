@@ -1,5 +1,5 @@
 # 📊 Data Visualization
-  This repository is a collection of code, examples, and resources for creating compelling and insightful visualizations of data
+ Repository is a collection of code, examples, and resources for creating compelling and insightful visualizations of data
 
 
 -visualising using Matplotlib
